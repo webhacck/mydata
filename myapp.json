@@ -1,16 +1,20 @@
 {
 	"collection": [
 		{
-			"title": "サンプルのタスク"
+			"title": "サンプルのタスク",
+			"check": false
 		},
 		{
-			"title": "サンプル項目１"
+			"title": "サンプル項目１",
+			"check": true
 		},
 		{
-			"title": "サンプル項目２"
+			"title": "サンプル項目２",
+			"check": false
 		},
 		{
-			"title": "サンプル項目３"
+			"title": "サンプル項目３",
+			"check": false
 		}
 	]
 }
